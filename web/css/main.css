@@ -1,0 +1,77 @@
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: white;
+}
+
+.btn {
+  border-radius: 0;
+}
+
+.k-grid-header div.k-grid-header-wrap.k-auto-scrollable table thead tr th {
+  font-weight: bold;
+  text-align: center;
+}
+
+table thead.k-grid-header tr th.k-header {
+  font-weight: bold;
+  text-align: center;
+}
+
+.k-widget.k-header.k-tabstrip.k-floatwrap.k-tabstrip-top ul.k-tabstrip-items.k-reset li.k-item {
+  padding: 10px;
+}
+
+.hightlight {
+  font-weight: bold;
+}
+
+.hightlight2 {
+  font-weight: bold;
+  color: green;
+}
+
+.layer {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: black;
+  opacity: 0;
+}
+
+.popup {
+  width: 600px;
+  background: white;
+  position: relative;
+  overflow: hidden;
+}
+
+div {
+  box-sizing: border-box !important;
+}
+
+.match-item {
+  flex-grow: 1;
+  box-sizing: border-box;
+  width: 50%;
+  height: 100px;
+  background: black;
+  color: yellow;
+  padding-top: 30px;
+}
+
+.knockoutBox {
+  width: 100%;
+  margin-top: 20px;
+}
+
+#knockoutbox {
+  pointer-events: none;
+}
+
+/*# sourceMappingURL=main.css.map */
