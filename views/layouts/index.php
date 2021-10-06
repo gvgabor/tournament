@@ -28,7 +28,7 @@ AppAsset::register($this);
         <?PHP $this->beginBody() ?>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Tournament</a>
+                <a class="navbar-brand" href="#">Referenciák</a>
                 <button
                         class="navbar-toggler"
                         type="button"
@@ -49,7 +49,7 @@ AppAsset::register($this);
                         </li>
                         <li class="nav-item">
                             <a
-                                    class="nav-link active"
+                                    class="nav-link"
                                     aria-current="page"
                                     href="<?= Yii::$app->urlManager->createUrl(['tournament/index']) ?>"
                             >Europa bajnokság

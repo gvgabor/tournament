@@ -1,0 +1,500 @@
+{
+    "groups": {
+        "A": [
+            "Italy",
+            "Wales",
+            "Switzerland",
+            "Turkey"
+        ],
+        "B": [
+            "Belgium",
+            "Denmark",
+            "Finland",
+            "Russia"
+        ],
+        "C": [
+            "Netherlands",
+            "Austria",
+            "Ukraine",
+            "North Macedonia"
+        ],
+        "D": [
+            "England",
+            "Croatia",
+            "Czech Republic",
+            "Scotland"
+        ],
+        "E": [
+            "Sweden",
+            "Spain",
+            "Slovakia",
+            "Poland"
+        ],
+        "F": [
+            "France",
+            "Germany",
+            "Portugal",
+            "Hungary"
+        ]
+    },
+    "matches": {
+        "A": [
+            {
+                "group": "A",
+                "team1": "Turkey",
+                "team2": "Italy",
+                "date": "2021-06-11 21:00",
+                "stadium": "Olimpico, Rome",
+                "stadiumKey": "Olimpico-Rome",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/L%27Olimpico_-_panoramio.jpg"
+            },
+            {
+                "group": "A",
+                "team1": "Wales",
+                "team2": "Switzerland",
+                "date": "2021-06-12 15:00",
+                "stadium": "Baki Olimpiya, Baku",
+                "stadiumKey": "Baki-Olimpiya-Baku",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bb\/Baku_Olympic_Stadium_panorama_1.JPG"
+            },
+            {
+                "group": "A",
+                "team1": "Turkey",
+                "team2": "Wales",
+                "date": "2021-06-16 18:00",
+                "stadium": "Baki Olimpiya, Baku",
+                "stadiumKey": "Baki-Olimpiya-Baku",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bb\/Baku_Olympic_Stadium_panorama_1.JPG"
+            },
+            {
+                "group": "A",
+                "team1": "Italy",
+                "team2": "Switzerland",
+                "date": "2021-06-16 21:00",
+                "stadium": "Olimpico, Rome",
+                "stadiumKey": "Olimpico-Rome",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/L%27Olimpico_-_panoramio.jpg"
+            },
+            {
+                "group": "A",
+                "team1": "Switzerland",
+                "team2": "Turkey",
+                "date": "2021-06-20 18:00",
+                "stadium": "Baki Olimpiya, Baku",
+                "stadiumKey": "Baki-Olimpiya-Baku",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bb\/Baku_Olympic_Stadium_panorama_1.JPG"
+            },
+            {
+                "group": "A",
+                "team1": "Italy",
+                "team2": "Wales",
+                "date": "2021-06-20 18:00",
+                "stadium": "Olimpico, Rome",
+                "stadiumKey": "Olimpico-Rome",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/51\/L%27Olimpico_-_panoramio.jpg"
+            }
+        ],
+        "B": [
+            {
+                "group": "B",
+                "team1": "Denmark",
+                "team2": "Finland",
+                "date": "2021-06-12 18:00",
+                "stadium": "Parken, Copenhagen",
+                "stadiumKey": "Parken-Copenhagen",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/50\/Parken_from_the_air_2.JPG"
+            },
+            {
+                "group": "B",
+                "team1": "Belgium",
+                "team2": "Russia",
+                "date": "2021-06-12 21:00",
+                "stadium": "Gazprom Arena, St Petersburg",
+                "stadiumKey": "Gazprom-Arena-St-Petersburg",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/53\/Spb_06-2017_img40_Krestovsky_Stadium_%28cropped%29.jpg"
+            },
+            {
+                "group": "B",
+                "team1": "Finland",
+                "team2": "Russia",
+                "date": "2021-06-16 15:00",
+                "stadium": "Gazprom Arena, St Petersburg",
+                "stadiumKey": "Gazprom-Arena-St-Petersburg",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/53\/Spb_06-2017_img40_Krestovsky_Stadium_%28cropped%29.jpg"
+            },
+            {
+                "group": "B",
+                "team1": "Denmark",
+                "team2": "Belgium",
+                "date": "2021-06-17 18:00",
+                "stadium": "Parken, Copenhagen",
+                "stadiumKey": "Parken-Copenhagen",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/50\/Parken_from_the_air_2.JPG"
+            },
+            {
+                "group": "B",
+                "team1": "Russia",
+                "team2": "Denmark",
+                "date": "2021-06-21 21:00",
+                "stadium": "Parken, Copenhagen",
+                "stadiumKey": "Parken-Copenhagen",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/50\/Parken_from_the_air_2.JPG"
+            },
+            {
+                "group": "B",
+                "team1": "Finland",
+                "team2": "Belgium",
+                "date": "2021-06-21 21:00",
+                "stadium": "Gazprom Arena, St Petersburg",
+                "stadiumKey": "Gazprom-Arena-St-Petersburg",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/53\/Spb_06-2017_img40_Krestovsky_Stadium_%28cropped%29.jpg"
+            }
+        ],
+        "D": [
+            {
+                "group": "D",
+                "team1": "England",
+                "team2": "Croatia",
+                "date": "2021-06-13 15:00",
+                "stadium": "Wembley, London",
+                "stadiumKey": "Wembley-London",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e2\/Wembley-Stadion_2013_16x10.jpg"
+            },
+            {
+                "group": "D",
+                "team1": "Scotland",
+                "team2": "Czech Republic",
+                "date": "2021-06-14 15:00",
+                "stadium": "Hampden Park, Glasgow",
+                "stadiumKey": "Hampden-Park-Glasgow",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2c\/Hampden_Park_%28Glasgow%29_aerial_view_cropped.jpg"
+            },
+            {
+                "group": "D",
+                "team1": "Croatia",
+                "team2": "Czech Republic",
+                "date": "2021-06-18 18:00",
+                "stadium": "Hampden Park, Glasgow",
+                "stadiumKey": "Hampden-Park-Glasgow",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2c\/Hampden_Park_%28Glasgow%29_aerial_view_cropped.jpg"
+            },
+            {
+                "group": "D",
+                "team1": "England",
+                "team2": "Scotland",
+                "date": "2021-06-18 21:00",
+                "stadium": "Wembley, London",
+                "stadiumKey": "Wembley-London",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e2\/Wembley-Stadion_2013_16x10.jpg"
+            },
+            {
+                "group": "D",
+                "team1": "Croatia",
+                "team2": "Scotland",
+                "date": "2021-06-22 21:00",
+                "stadium": "Hampden Park, Glasgow",
+                "stadiumKey": "Hampden-Park-Glasgow",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2c\/Hampden_Park_%28Glasgow%29_aerial_view_cropped.jpg"
+            },
+            {
+                "group": "D",
+                "team1": "Czech Republic",
+                "team2": "England",
+                "date": "2021-06-22 21:00",
+                "stadium": "Wembley, London",
+                "stadiumKey": "Wembley-London",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e2\/Wembley-Stadion_2013_16x10.jpg"
+            }
+        ],
+        "C": [
+            {
+                "group": "C",
+                "team1": "Austria",
+                "team2": "North Macedonia",
+                "date": "2021-06-13 18:00",
+                "stadium": "National Arena, Bucharest",
+                "stadiumKey": "National-Arena-Bucharest",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2b\/Bucharest_%288272279241%29.jpg"
+            },
+            {
+                "group": "C",
+                "team1": "Netherlands",
+                "team2": "Ukraine",
+                "date": "2021-06-13 21:00",
+                "stadium": "Johan Cruijff Arena, Amsterdam",
+                "stadiumKey": "Johan-Cruijff-Arena-Amsterdam",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a7\/Amsterdam_Arena_Roof_Open.jpg"
+            },
+            {
+                "group": "C",
+                "team1": "Ukraine",
+                "team2": "North Macedonia",
+                "date": "2021-06-17 15:00",
+                "stadium": "National Arena, Bucharest",
+                "stadiumKey": "National-Arena-Bucharest",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2b\/Bucharest_%288272279241%29.jpg"
+            },
+            {
+                "group": "C",
+                "team1": "Netherlands",
+                "team2": "Austria",
+                "date": "2021-06-17 21:00",
+                "stadium": "Johan Cruijff Arena, Amsterdam",
+                "stadiumKey": "Johan-Cruijff-Arena-Amsterdam",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a7\/Amsterdam_Arena_Roof_Open.jpg"
+            },
+            {
+                "group": "C",
+                "team1": "North Macedonia",
+                "team2": "Netherlands",
+                "date": "2021-06-21 18:00",
+                "stadium": "Johan Cruijff Arena, Amsterdam",
+                "stadiumKey": "Johan-Cruijff-Arena-Amsterdam",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a7\/Amsterdam_Arena_Roof_Open.jpg"
+            },
+            {
+                "group": "C",
+                "team1": "Ukraine",
+                "team2": "Austria",
+                "date": "2021-06-21 18:00",
+                "stadium": "National Arena, Bucharest",
+                "stadiumKey": "National-Arena-Bucharest",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2b\/Bucharest_%288272279241%29.jpg"
+            }
+        ],
+        "E": [
+            {
+                "group": "E",
+                "team1": "Poland",
+                "team2": "Slovakia",
+                "date": "2021-06-14 18:00",
+                "stadium": "Aviva, Dublin",
+                "stadiumKey": "Aviva-Dublin",
+                "image": "https:\/\/www.avivastadium.ie\/images\/uploads\/banners\/Aviva_banner_8.jpg"
+            },
+            {
+                "group": "E",
+                "team1": "Spain",
+                "team2": "Sweden",
+                "date": "2021-06-14 21:00",
+                "stadium": "Estadio de San Mames, Bilbao",
+                "stadiumKey": "Estadio-de-San-Mames-Bilbao",
+                "image": "https:\/\/i.pinimg.com\/originals\/96\/62\/b5\/9662b5e61b37c33f71895222a51de157.jpg"
+            },
+            {
+                "group": "E",
+                "team1": "Sweden",
+                "team2": "Slovakia",
+                "date": "2021-06-18 15:00",
+                "stadium": "Aviva, Dublin",
+                "stadiumKey": "Aviva-Dublin",
+                "image": "https:\/\/www.avivastadium.ie\/images\/uploads\/banners\/Aviva_banner_8.jpg"
+            },
+            {
+                "group": "E",
+                "team1": "Spain",
+                "team2": "Poland",
+                "date": "2021-06-19 21:00",
+                "stadium": "Estadio de San Mames, Bilbao",
+                "stadiumKey": "Estadio-de-San-Mames-Bilbao",
+                "image": "https:\/\/i.pinimg.com\/originals\/96\/62\/b5\/9662b5e61b37c33f71895222a51de157.jpg"
+            },
+            {
+                "group": "E",
+                "team1": "Sweden",
+                "team2": "Poland",
+                "date": "2021-06-23 18:00",
+                "stadium": "Aviva, Dublin",
+                "stadiumKey": "Aviva-Dublin",
+                "image": "https:\/\/www.avivastadium.ie\/images\/uploads\/banners\/Aviva_banner_8.jpg"
+            },
+            {
+                "group": "E",
+                "team1": "Slovakia",
+                "team2": "Spain",
+                "date": "2021-06-23 18:00",
+                "stadium": "Estadio de San Mames, Bilbao",
+                "stadiumKey": "Estadio-de-San-Mames-Bilbao",
+                "image": "https:\/\/i.pinimg.com\/originals\/96\/62\/b5\/9662b5e61b37c33f71895222a51de157.jpg"
+            }
+        ],
+        "F": [
+            {
+                "group": "F",
+                "team1": "Hungary",
+                "team2": "Portugal",
+                "date": "2021-06-15 18:00",
+                "stadium": "Puskas Arena, Budapest",
+                "stadiumKey": "Puskas-Arena-Budapest",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e5\/Pusk%C3%A1s_Ar%C3%A9na_05.jpg"
+            },
+            {
+                "group": "F",
+                "team1": "France",
+                "team2": "Germany",
+                "date": "2021-06-15 21:00",
+                "stadium": "Allianz Arena, Munich",
+                "stadiumKey": "Allianz-Arena-Munich",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/12\/M%C3%BCnchen_-_Allianz-Arena_%28Luftbild%29.jpg"
+            },
+            {
+                "group": "F",
+                "team1": "Hungary",
+                "team2": "France",
+                "date": "2021-06-19 15:00",
+                "stadium": "Puskas Arena, Budapest",
+                "stadiumKey": "Puskas-Arena-Budapest",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e5\/Pusk%C3%A1s_Ar%C3%A9na_05.jpg"
+            },
+            {
+                "group": "F",
+                "team1": "Portugal",
+                "team2": "Germany",
+                "date": "2021-06-19 18:00",
+                "stadium": "Allianz Arena, Munich",
+                "stadiumKey": "Allianz-Arena-Munich",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/12\/M%C3%BCnchen_-_Allianz-Arena_%28Luftbild%29.jpg"
+            },
+            {
+                "group": "F",
+                "team1": "Portugal",
+                "team2": "France",
+                "date": "2021-06-23 21:00",
+                "stadium": "Puskas Arena, Budapest",
+                "stadiumKey": "Puskas-Arena-Budapest",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e5\/Pusk%C3%A1s_Ar%C3%A9na_05.jpg"
+            },
+            {
+                "group": "F",
+                "team1": "Germany",
+                "team2": "Hungary",
+                "date": "2021-06-23 21:00",
+                "stadium": "Allianz Arena, Munich",
+                "stadiumKey": "Allianz-Arena-Munich",
+                "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/12\/M%C3%BCnchen_-_Allianz-Arena_%28Luftbild%29.jpg"
+            }
+        ]
+    },
+    "teams": [
+        {
+            "name": "Italy",
+            "codelong": "ITA",
+            "rank": 5
+        },
+        {
+            "name": "Wales",
+            "codelong": "WAL",
+            "rank": 19
+        },
+        {
+            "name": "Switzerland",
+            "codelong": "SUI",
+            "rank": 14
+        },
+        {
+            "name": "Turkey",
+            "codelong": "TUR",
+            "rank": 39
+        },
+        {
+            "name": "Belgium",
+            "codelong": "BEL",
+            "rank": 1
+        },
+        {
+            "name": "Denmark",
+            "codelong": "DEN",
+            "rank": 11
+        },
+        {
+            "name": "Finland",
+            "codelong": "FIN",
+            "rank": 56
+        },
+        {
+            "name": "Russia",
+            "codelong": "RUS",
+            "rank": 41
+        },
+        {
+            "name": "Netherlands",
+            "codelong": "NED",
+            "rank": 12
+        },
+        {
+            "name": "Austria",
+            "codelong": "AUT",
+            "rank": 23
+        },
+        {
+            "name": "Ukraine",
+            "codelong": "UKR",
+            "rank": 25
+        },
+        {
+            "name": "North Macedonia",
+            "codelong": "MKD",
+            "rank": 72
+        },
+        {
+            "name": "England",
+            "codelong": "ENG",
+            "rank": 4
+        },
+        {
+            "name": "Croatia",
+            "codelong": "CRO",
+            "rank": 18
+        },
+        {
+            "name": "Czech Republic",
+            "codelong": "CZE",
+            "rank": 31
+        },
+        {
+            "name": "Scotland",
+            "codelong": "SCO",
+            "rank": 49
+        },
+        {
+            "name": "Sweden",
+            "codelong": "SWE",
+            "rank": 17
+        },
+        {
+            "name": "Spain",
+            "codelong": "ESP",
+            "rank": 7
+        },
+        {
+            "name": "Slovakia",
+            "codelong": "SVK",
+            "rank": 38
+        },
+        {
+            "name": "Poland",
+            "codelong": "POL",
+            "rank": 27
+        },
+        {
+            "name": "France",
+            "codelong": "FRA",
+            "rank": 3
+        },
+        {
+            "name": "Germany",
+            "codelong": "GER",
+            "rank": 16
+        },
+        {
+            "name": "Portugal",
+            "codelong": "POR",
+            "rank": 8
+        },
+        {
+            "name": "Hungary",
+            "codelong": "HUN",
+            "rank": 37
+        }
+    ]
+}

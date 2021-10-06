@@ -1,0 +1,1784 @@
+[
+    {
+        "country": "Afghanistan",
+        "code": "AF",
+        "codelong": "AFG",
+        "flag": "https:\/\/www.countryflags.io\/AF\/shiny\/64.png"
+    },
+    {
+        "country": "Africa CAMEU region, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Albania",
+        "code": "AL",
+        "codelong": "ALB",
+        "flag": "https:\/\/www.countryflags.io\/AL\/shiny\/64.png"
+    },
+    {
+        "country": "Algeria",
+        "code": "DZ",
+        "codelong": "DZA",
+        "flag": "https:\/\/www.countryflags.io\/DZ\/shiny\/64.png"
+    },
+    {
+        "country": "American Samoa",
+        "code": "AS",
+        "codelong": "ASM",
+        "flag": "https:\/\/www.countryflags.io\/AS\/shiny\/64.png"
+    },
+    {
+        "country": "Andorra",
+        "code": "AD",
+        "codelong": "AND",
+        "flag": "https:\/\/www.countryflags.io\/AD\/shiny\/64.png"
+    },
+    {
+        "country": "Angola",
+        "code": "AO",
+        "codelong": "AGO",
+        "flag": "https:\/\/www.countryflags.io\/AO\/shiny\/64.png"
+    },
+    {
+        "country": "Anguilla",
+        "code": "AI",
+        "codelong": "AIA",
+        "flag": "https:\/\/www.countryflags.io\/AI\/shiny\/64.png"
+    },
+    {
+        "country": "Antarctica",
+        "code": "AQ",
+        "codelong": "ATA",
+        "flag": "https:\/\/www.countryflags.io\/AQ\/shiny\/64.png"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "code": "AG",
+        "codelong": "ATA",
+        "flag": "https:\/\/www.countryflags.io\/AG\/shiny\/64.png"
+    },
+    {
+        "country": "Areas, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Argentina",
+        "code": "AR",
+        "codelong": "ARG",
+        "flag": "https:\/\/www.countryflags.io\/AR\/shiny\/64.png"
+    },
+    {
+        "country": "Armenia",
+        "code": "AM",
+        "codelong": "ARM",
+        "flag": "https:\/\/www.countryflags.io\/AM\/shiny\/64.png"
+    },
+    {
+        "country": "Aruba",
+        "code": "AW",
+        "codelong": "ABW",
+        "flag": "https:\/\/www.countryflags.io\/AW\/shiny\/64.png"
+    },
+    {
+        "country": "Australia",
+        "code": "AU",
+        "codelong": "AUS",
+        "flag": "https:\/\/www.countryflags.io\/AU\/shiny\/64.png"
+    },
+    {
+        "country": "Austria",
+        "code": "AT",
+        "codelong": "AUT",
+        "flag": "https:\/\/www.countryflags.io\/AT\/shiny\/64.png"
+    },
+    {
+        "country": "Azerbaijan",
+        "code": "AZ",
+        "codelong": "AZE",
+        "flag": "https:\/\/www.countryflags.io\/AZ\/shiny\/64.png"
+    },
+    {
+        "country": "Bahamas",
+        "code": "BS",
+        "codelong": "BHS",
+        "flag": "https:\/\/www.countryflags.io\/BS\/shiny\/64.png"
+    },
+    {
+        "country": "Bahrain",
+        "code": "BH",
+        "codelong": "BHR",
+        "flag": "https:\/\/www.countryflags.io\/BH\/shiny\/64.png"
+    },
+    {
+        "country": "Bangladesh",
+        "code": "BD",
+        "codelong": "BGD",
+        "flag": "https:\/\/www.countryflags.io\/BD\/shiny\/64.png"
+    },
+    {
+        "country": "Barbados",
+        "code": "BB",
+        "codelong": "BRB",
+        "flag": "https:\/\/www.countryflags.io\/BB\/shiny\/64.png"
+    },
+    {
+        "country": "Belarus",
+        "code": "BY",
+        "codelong": "BLR",
+        "flag": "https:\/\/www.countryflags.io\/BY\/shiny\/64.png"
+    },
+    {
+        "country": "Belgium",
+        "code": "BE",
+        "codelong": "BEL",
+        "flag": "https:\/\/www.countryflags.io\/BE\/shiny\/64.png"
+    },
+    {
+        "country": "Belgium-Luxembourg",
+        "code": "BE",
+        "codelong": "BEL",
+        "flag": "https:\/\/www.countryflags.io\/BE\/shiny\/64.png"
+    },
+    {
+        "country": "Belize",
+        "code": "BZ",
+        "codelong": "BLZ",
+        "flag": "https:\/\/www.countryflags.io\/BZ\/shiny\/64.png"
+    },
+    {
+        "country": "Benin",
+        "code": "BJ",
+        "codelong": "BEN",
+        "flag": "https:\/\/www.countryflags.io\/BJ\/shiny\/64.png"
+    },
+    {
+        "country": "Bermuda",
+        "code": "BM",
+        "codelong": "BMU",
+        "flag": "https:\/\/www.countryflags.io\/BM\/shiny\/64.png"
+    },
+    {
+        "country": "Bhutan",
+        "code": "BT",
+        "codelong": "BTN",
+        "flag": "https:\/\/www.countryflags.io\/BT\/shiny\/64.png"
+    },
+    {
+        "country": "Plurinational State of Bolivia",
+        "code": "BO",
+        "codelong": "BOL",
+        "flag": "https:\/\/www.countryflags.io\/BO\/shiny\/64.png"
+    },
+    {
+        "country": "Bonaire, Saint Eustatius and Saba",
+        "code": "BQ",
+        "codelong": "BES",
+        "flag": "https:\/\/www.countryflags.io\/BQ\/shiny\/64.png"
+    },
+    {
+        "country": "Bosnia Herzegovina",
+        "code": "BA",
+        "codelong": "BIH",
+        "flag": "https:\/\/www.countryflags.io\/BA\/shiny\/64.png"
+    },
+    {
+        "country": "Botswana",
+        "code": "BW",
+        "codelong": "BWA",
+        "flag": "https:\/\/www.countryflags.io\/BW\/shiny\/64.png"
+    },
+    {
+        "country": "Ile Bouvet",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "British Antarctic Territories",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "British Indian Ocean Territories",
+        "code": "IO",
+        "codelong": "IOT",
+        "flag": "https:\/\/www.countryflags.io\/IO\/shiny\/64.png"
+    },
+    {
+        "country": "British Virgin Islands",
+        "code": "VG",
+        "codelong": "VGB",
+        "flag": "https:\/\/www.countryflags.io\/VG\/shiny\/64.png"
+    },
+    {
+        "country": "Brazil",
+        "code": "BR",
+        "codelong": "BRA",
+        "flag": "https:\/\/www.countryflags.io\/BR\/shiny\/64.png"
+    },
+    {
+        "country": "Brunei Darussalam",
+        "code": "BN",
+        "codelong": "BRN",
+        "flag": "https:\/\/www.countryflags.io\/BN\/shiny\/64.png"
+    },
+    {
+        "country": "Bulgaria",
+        "code": "BG",
+        "codelong": "BGR",
+        "flag": "https:\/\/www.countryflags.io\/BG\/shiny\/64.png"
+    },
+    {
+        "country": "Bunkers",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Burkina Faso",
+        "code": "BF",
+        "codelong": "BFA",
+        "flag": "https:\/\/www.countryflags.io\/BF\/shiny\/64.png"
+    },
+    {
+        "country": "Burundi",
+        "code": "BI",
+        "codelong": "BDI",
+        "flag": "https:\/\/www.countryflags.io\/BI\/shiny\/64.png"
+    },
+    {
+        "country": "Cabo Verde",
+        "code": "CV",
+        "codelong": "CPV",
+        "flag": "https:\/\/www.countryflags.io\/CV\/shiny\/64.png"
+    },
+    {
+        "country": "CACM, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Cambodia",
+        "code": "KH",
+        "codelong": "KHM",
+        "flag": "https:\/\/www.countryflags.io\/KH\/shiny\/64.png"
+    },
+    {
+        "country": "Cameroon",
+        "code": "CM",
+        "codelong": "CMR",
+        "flag": "https:\/\/www.countryflags.io\/CM\/shiny\/64.png"
+    },
+    {
+        "country": "Canada",
+        "code": "CA",
+        "codelong": "CAN",
+        "flag": "https:\/\/www.countryflags.io\/CA\/shiny\/64.png"
+    },
+    {
+        "country": "Caribbean, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Cayman Islands",
+        "code": "KY",
+        "codelong": "CYM",
+        "flag": "https:\/\/www.countryflags.io\/KY\/shiny\/64.png"
+    },
+    {
+        "country": "Central African Republic",
+        "code": "CF",
+        "codelong": "CAF",
+        "flag": "https:\/\/www.countryflags.io\/CF\/shiny\/64.png"
+    },
+    {
+        "country": "Chad",
+        "code": "TD",
+        "codelong": "TCD",
+        "flag": "https:\/\/www.countryflags.io\/TD\/shiny\/64.png"
+    },
+    {
+        "country": "Chile",
+        "code": "CL",
+        "codelong": "CHL",
+        "flag": "https:\/\/www.countryflags.io\/CL\/shiny\/64.png"
+    },
+    {
+        "country": "China",
+        "code": "CN",
+        "codelong": "CHN",
+        "flag": "https:\/\/www.countryflags.io\/CN\/shiny\/64.png"
+    },
+    {
+        "country": "China, Hong Kong Special Administrative Region",
+        "code": "HK",
+        "codelong": "HKG",
+        "flag": "https:\/\/www.countryflags.io\/HK\/shiny\/64.png"
+    },
+    {
+        "country": "China, Macao Special Administrative Region",
+        "code": "MO",
+        "codelong": "MAC",
+        "flag": "https:\/\/www.countryflags.io\/MO\/shiny\/64.png"
+    },
+    {
+        "country": "Christmas Islands",
+        "code": "CX",
+        "codelong": "CXR",
+        "flag": "https:\/\/www.countryflags.io\/CX\/shiny\/64.png"
+    },
+    {
+        "country": "Cocos Islands",
+        "code": "CC",
+        "codelong": "CCK",
+        "flag": "https:\/\/www.countryflags.io\/CC\/shiny\/64.png"
+    },
+    {
+        "country": "Colombia",
+        "code": "CO",
+        "codelong": "COL",
+        "flag": "https:\/\/www.countryflags.io\/CO\/shiny\/64.png"
+    },
+    {
+        "country": "Comoros",
+        "code": "KM",
+        "codelong": "COM",
+        "flag": "https:\/\/www.countryflags.io\/KM\/shiny\/64.png"
+    },
+    {
+        "country": "Congo",
+        "code": "CG",
+        "codelong": "COG",
+        "flag": "https:\/\/www.countryflags.io\/CG\/shiny\/64.png"
+    },
+    {
+        "country": "Cook Islands",
+        "code": "CK",
+        "codelong": "COK",
+        "flag": "https:\/\/www.countryflags.io\/CK\/shiny\/64.png"
+    },
+    {
+        "country": "Costa Rica",
+        "code": "CR",
+        "codelong": "CRI",
+        "flag": "https:\/\/www.countryflags.io\/CR\/shiny\/64.png"
+    },
+    {
+        "country": "C\u00f4te d'Ivoire",
+        "code": "CI",
+        "codelong": "CIV",
+        "flag": "https:\/\/www.countryflags.io\/CI\/shiny\/64.png"
+    },
+    {
+        "country": "Croatia",
+        "code": "HR",
+        "codelong": "CRO",
+        "flag": "https:\/\/www.countryflags.io\/HR\/shiny\/64.png"
+    },
+    {
+        "country": "Cuba",
+        "code": "CU",
+        "codelong": "CUB",
+        "flag": "https:\/\/www.countryflags.io\/CU\/shiny\/64.png"
+    },
+    {
+        "country": "Cura\u00e7ao",
+        "code": "CW",
+        "codelong": "CUW",
+        "flag": "https:\/\/www.countryflags.io\/CW\/shiny\/64.png"
+    },
+    {
+        "country": "Cyprus",
+        "code": "CY",
+        "codelong": "CYP",
+        "flag": "https:\/\/www.countryflags.io\/CY\/shiny\/64.png"
+    },
+    {
+        "country": "Czech Republic",
+        "code": "CZ",
+        "codelong": "CZE",
+        "flag": "https:\/\/www.countryflags.io\/CZ\/shiny\/64.png"
+    },
+    {
+        "country": "Czechoslovakia",
+        "code": "CS",
+        "codelong": "CSK",
+        "flag": "https:\/\/www.countryflags.io\/CS\/shiny\/64.png"
+    },
+    {
+        "country": "Democratic People's Republic of Korea",
+        "code": "KP",
+        "codelong": "PRK",
+        "flag": "https:\/\/www.countryflags.io\/KP\/shiny\/64.png"
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "code": "CD",
+        "codelong": "COD",
+        "flag": "https:\/\/www.countryflags.io\/CD\/shiny\/64.png"
+    },
+    {
+        "country": "Denmark",
+        "code": "DK",
+        "codelong": "DEN",
+        "flag": "https:\/\/www.countryflags.io\/DK\/shiny\/64.png"
+    },
+    {
+        "country": "Djibouti",
+        "code": "DJ",
+        "codelong": "DJI",
+        "flag": "https:\/\/www.countryflags.io\/DJ\/shiny\/64.png"
+    },
+    {
+        "country": "Dominica",
+        "code": "DM",
+        "codelong": "DMA",
+        "flag": "https:\/\/www.countryflags.io\/DM\/shiny\/64.png"
+    },
+    {
+        "country": "Dominican Republic",
+        "code": "DO",
+        "codelong": "DOM",
+        "flag": "https:\/\/www.countryflags.io\/DO\/shiny\/64.png"
+    },
+    {
+        "country": "East and West Pakistan",
+        "code": "PK",
+        "codelong": "PAK",
+        "flag": "https:\/\/www.countryflags.io\/PK\/shiny\/64.png"
+    },
+    {
+        "country": "Eastern Europe, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Ecuador",
+        "code": "EC",
+        "codelong": "ECU",
+        "flag": "https:\/\/www.countryflags.io\/EC\/shiny\/64.png"
+    },
+    {
+        "country": "Egypt",
+        "code": "EG",
+        "codelong": "EGY",
+        "flag": "https:\/\/www.countryflags.io\/EG\/shiny\/64.png"
+    },
+    {
+        "country": "El Salvador",
+        "code": "SV",
+        "codelong": "SLV",
+        "flag": "https:\/\/www.countryflags.io\/SV\/shiny\/64.png"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "code": "GQ",
+        "codelong": "GNQ",
+        "flag": "https:\/\/www.countryflags.io\/GQ\/shiny\/64.png"
+    },
+    {
+        "country": "Eritrea",
+        "code": "ER",
+        "codelong": "ERI",
+        "flag": "https:\/\/www.countryflags.io\/ER\/shiny\/64.png"
+    },
+    {
+        "country": "Estonia",
+        "code": "EE",
+        "codelong": "EST",
+        "flag": "https:\/\/www.countryflags.io\/EE\/shiny\/64.png"
+    },
+    {
+        "country": "Ethiopia",
+        "code": "ET",
+        "codelong": "ETH",
+        "flag": "https:\/\/www.countryflags.io\/ET\/shiny\/64.png"
+    },
+    {
+        "country": "EU-28",
+        "code": "EU",
+        "codelong": "EU2",
+        "flag": "https:\/\/www.countryflags.io\/EU\/shiny\/64.png"
+    },
+    {
+        "country": "Europe EFTA, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Europe EU, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Faeroe Islands",
+        "code": "FO",
+        "codelong": "FRO",
+        "flag": "https:\/\/www.countryflags.io\/FO\/shiny\/64.png"
+    },
+    {
+        "country": "Falkland Islands (Malvinas)",
+        "code": "FK",
+        "codelong": "FLK",
+        "flag": "https:\/\/www.countryflags.io\/FK\/shiny\/64.png"
+    },
+    {
+        "country": "Fiji",
+        "code": "FJ",
+        "codelong": "FJI",
+        "flag": "https:\/\/www.countryflags.io\/FJ\/shiny\/64.png"
+    },
+    {
+        "country": "Finland",
+        "code": "FI",
+        "codelong": "FIN",
+        "flag": "https:\/\/www.countryflags.io\/FI\/shiny\/64.png"
+    },
+    {
+        "country": "Former Arab Republic of Yemen",
+        "code": "YE",
+        "codelong": "YEM",
+        "flag": "https:\/\/www.countryflags.io\/YE\/shiny\/64.png"
+    },
+    {
+        "country": "Former Democratic Republic of Germany",
+        "code": "DD",
+        "codelong": "DDR",
+        "flag": "https:\/\/www.countryflags.io\/DD\/shiny\/64.png"
+    },
+    {
+        "country": "Former Democratic Republic of Vietnam",
+        "code": "VD",
+        "codelong": "VDR",
+        "flag": "https:\/\/www.countryflags.io\/VD\/shiny\/64.png"
+    },
+    {
+        "country": "Former Democratic Yemen",
+        "code": "YD",
+        "codelong": "YMD",
+        "flag": "https:\/\/www.countryflags.io\/YD\/shiny\/64.png"
+    },
+    {
+        "country": "Former Ethiopia",
+        "code": "ET",
+        "codelong": "ETH",
+        "flag": "https:\/\/www.countryflags.io\/ET\/shiny\/64.png"
+    },
+    {
+        "country": "Former Federal Republic of Germany",
+        "code": "DE",
+        "codelong": "GER",
+        "flag": "https:\/\/www.countryflags.io\/DE\/shiny\/64.png"
+    },
+    {
+        "country": "Former Pacific Islands",
+        "code": "PC",
+        "codelong": "PCI",
+        "flag": "https:\/\/www.countryflags.io\/PC\/shiny\/64.png"
+    },
+    {
+        "country": "Former Panama, excluding Canal Zone",
+        "code": "PA",
+        "codelong": "PAN",
+        "flag": "https:\/\/www.countryflags.io\/PA\/shiny\/64.png"
+    },
+    {
+        "country": "Former Panama-Canal-Zone",
+        "code": "PZ",
+        "codelong": "PCZ",
+        "flag": "https:\/\/www.countryflags.io\/PZ\/shiny\/64.png"
+    },
+    {
+        "country": "Former Republic of Vietnam",
+        "code": "VN",
+        "codelong": "VNM",
+        "flag": "https:\/\/www.countryflags.io\/VN\/shiny\/64.png"
+    },
+    {
+        "country": "Former Rhodesia Nyas",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Former Sudan",
+        "code": "SD",
+        "codelong": "SDN",
+        "flag": "https:\/\/www.countryflags.io\/SD\/shiny\/64.png"
+    },
+    {
+        "country": "Former Tanganyika",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Former USSR",
+        "code": "SU",
+        "codelong": "SUN",
+        "flag": "https:\/\/www.countryflags.io\/SU\/shiny\/64.png"
+    },
+    {
+        "country": "Former Yugoslavia",
+        "code": "YU",
+        "codelong": "YUG",
+        "flag": "https:\/\/www.countryflags.io\/YU\/shiny\/64.png"
+    },
+    {
+        "country": "Former Zanzibar and Pemba Island",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "French South Antarctic Territories",
+        "code": "FQ",
+        "codelong": "ATF",
+        "flag": "https:\/\/www.countryflags.io\/FQ\/shiny\/64.png"
+    },
+    {
+        "country": "France",
+        "code": "FR",
+        "codelong": "FRA",
+        "flag": "https:\/\/www.countryflags.io\/FR\/shiny\/64.png"
+    },
+    {
+        "country": "Free Zones",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "French Guiana",
+        "code": "GF",
+        "codelong": "GUF",
+        "flag": "https:\/\/www.countryflags.io\/GF\/shiny\/64.png"
+    },
+    {
+        "country": "French Polynesia",
+        "code": "PF",
+        "codelong": "PYF",
+        "flag": "https:\/\/www.countryflags.io\/PF\/shiny\/64.png"
+    },
+    {
+        "country": "Federated State of Micronesia",
+        "code": "FM",
+        "codelong": "FSM",
+        "flag": "https:\/\/www.countryflags.io\/FM\/shiny\/64.png"
+    },
+    {
+        "country": "Gabon",
+        "code": "GA",
+        "codelong": "GAB",
+        "flag": "https:\/\/www.countryflags.io\/GA\/shiny\/64.png"
+    },
+    {
+        "country": "Gambia",
+        "code": "GM",
+        "codelong": "GMB",
+        "flag": "https:\/\/www.countryflags.io\/GM\/shiny\/64.png"
+    },
+    {
+        "country": "Georgia",
+        "code": "GE",
+        "codelong": "GEO",
+        "flag": "https:\/\/www.countryflags.io\/GE\/shiny\/64.png"
+    },
+    {
+        "country": "Germany",
+        "code": "DE",
+        "codelong": "GER",
+        "flag": "https:\/\/www.countryflags.io\/DE\/shiny\/64.png"
+    },
+    {
+        "country": "Ghana",
+        "code": "GH",
+        "codelong": "GHA",
+        "flag": "https:\/\/www.countryflags.io\/GH\/shiny\/64.png"
+    },
+    {
+        "country": "Gibraltar",
+        "code": "GI",
+        "codelong": "GIB",
+        "flag": "https:\/\/www.countryflags.io\/GI\/shiny\/64.png"
+    },
+    {
+        "country": "Greece",
+        "code": "GR",
+        "codelong": "GRC",
+        "flag": "https:\/\/www.countryflags.io\/GR\/shiny\/64.png"
+    },
+    {
+        "country": "Greenland",
+        "code": "GL",
+        "codelong": "GRL",
+        "flag": "https:\/\/www.countryflags.io\/GL\/shiny\/64.png"
+    },
+    {
+        "country": "Grenada",
+        "code": "GD",
+        "codelong": "GRD",
+        "flag": "https:\/\/www.countryflags.io\/GD\/shiny\/64.png"
+    },
+    {
+        "country": "Guadeloupe",
+        "code": "GP",
+        "codelong": "GLP",
+        "flag": "https:\/\/www.countryflags.io\/GP\/shiny\/64.png"
+    },
+    {
+        "country": "Guam",
+        "code": "GU",
+        "codelong": "GUM",
+        "flag": "https:\/\/www.countryflags.io\/GU\/shiny\/64.png"
+    },
+    {
+        "country": "Guatemala",
+        "code": "GT",
+        "codelong": "GTM",
+        "flag": "https:\/\/www.countryflags.io\/GT\/shiny\/64.png"
+    },
+    {
+        "country": "Guinea",
+        "code": "GN",
+        "codelong": "GIN",
+        "flag": "https:\/\/www.countryflags.io\/GN\/shiny\/64.png"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "code": "GW",
+        "codelong": "GNB",
+        "flag": "https:\/\/www.countryflags.io\/GW\/shiny\/64.png"
+    },
+    {
+        "country": "Guyana",
+        "code": "GY",
+        "codelong": "GUY",
+        "flag": "https:\/\/www.countryflags.io\/GY\/shiny\/64.png"
+    },
+    {
+        "country": "Haiti",
+        "code": "HT",
+        "codelong": "HTI",
+        "flag": "https:\/\/www.countryflags.io\/HT\/shiny\/64.png"
+    },
+    {
+        "country": "Heard Island and McDonald Islands",
+        "code": "HM",
+        "codelong": "HMD",
+        "flag": "https:\/\/www.countryflags.io\/HM\/shiny\/64.png"
+    },
+    {
+        "country": "Holy See (Vatican City State)",
+        "code": "VA",
+        "codelong": "VAT",
+        "flag": "https:\/\/www.countryflags.io\/VA\/shiny\/64.png"
+    },
+    {
+        "country": "Honduras",
+        "code": "HN",
+        "codelong": "HND",
+        "flag": "https:\/\/www.countryflags.io\/HN\/shiny\/64.png"
+    },
+    {
+        "country": "Hungary",
+        "code": "HU",
+        "codelong": "HUN",
+        "flag": "https:\/\/www.countryflags.io\/HU\/shiny\/64.png"
+    },
+    {
+        "country": "Iceland",
+        "code": "IS",
+        "codelong": "ISL",
+        "flag": "https:\/\/www.countryflags.io\/IS\/shiny\/64.png"
+    },
+    {
+        "country": "India",
+        "code": "IN",
+        "codelong": "IND",
+        "flag": "https:\/\/www.countryflags.io\/IN\/shiny\/64.png"
+    },
+    {
+        "country": "India, excluding Sikkim",
+        "code": "IN",
+        "codelong": "IND",
+        "flag": "https:\/\/www.countryflags.io\/IN\/shiny\/64.png"
+    },
+    {
+        "country": "Indonesia",
+        "code": "ID",
+        "codelong": "IDN",
+        "flag": "https:\/\/www.countryflags.io\/ID\/shiny\/64.png"
+    },
+    {
+        "country": "Iran",
+        "code": "IR",
+        "codelong": "IRN",
+        "flag": "https:\/\/www.countryflags.io\/IR\/shiny\/64.png"
+    },
+    {
+        "country": "Iraq",
+        "code": "IQ",
+        "codelong": "IRQ",
+        "flag": "https:\/\/www.countryflags.io\/IQ\/shiny\/64.png"
+    },
+    {
+        "country": "Ireland",
+        "code": "IE",
+        "codelong": "IRL",
+        "flag": "https:\/\/www.countryflags.io\/IE\/shiny\/64.png"
+    },
+    {
+        "country": "Israel",
+        "code": "IL",
+        "codelong": "ISR",
+        "flag": "https:\/\/www.countryflags.io\/IL\/shiny\/64.png"
+    },
+    {
+        "country": "Italy",
+        "code": "IT",
+        "codelong": "ITA",
+        "flag": "https:\/\/www.countryflags.io\/IT\/shiny\/64.png"
+    },
+    {
+        "country": "Jamaica",
+        "code": "JM",
+        "codelong": "JAM",
+        "flag": "https:\/\/www.countryflags.io\/JM\/shiny\/64.png"
+    },
+    {
+        "country": "Japan",
+        "code": "JP",
+        "codelong": "JPN",
+        "flag": "https:\/\/www.countryflags.io\/JP\/shiny\/64.png"
+    },
+    {
+        "country": "Jordan",
+        "code": "JO",
+        "codelong": "JOR",
+        "flag": "https:\/\/www.countryflags.io\/JO\/shiny\/64.png"
+    },
+    {
+        "country": "Kazakhstan",
+        "code": "KZ",
+        "codelong": "KAZ",
+        "flag": "https:\/\/www.countryflags.io\/KZ\/shiny\/64.png"
+    },
+    {
+        "country": "Kenya",
+        "code": "KE",
+        "codelong": "KEN",
+        "flag": "https:\/\/www.countryflags.io\/KE\/shiny\/64.png"
+    },
+    {
+        "country": "Kiribati",
+        "code": "KI",
+        "codelong": "KIR",
+        "flag": "https:\/\/www.countryflags.io\/KI\/shiny\/64.png"
+    },
+    {
+        "country": "Kuwait",
+        "code": "KW",
+        "codelong": "KWT",
+        "flag": "https:\/\/www.countryflags.io\/KW\/shiny\/64.png"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "code": "KG",
+        "codelong": "KGZ",
+        "flag": "https:\/\/www.countryflags.io\/KG\/shiny\/64.png"
+    },
+    {
+        "country": "LAIA, not elsewhere specified",
+        "code": "N\/",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/\/shiny\/64.png"
+    },
+    {
+        "country": "Lao People's Dem. Rep.",
+        "code": "LA",
+        "codelong": "LAO",
+        "flag": "https:\/\/www.countryflags.io\/LA\/shiny\/64.png"
+    },
+    {
+        "country": "Latvia",
+        "code": "LV",
+        "codelong": "LVA",
+        "flag": "https:\/\/www.countryflags.io\/LV\/shiny\/64.png"
+    },
+    {
+        "country": "Lebanon",
+        "code": "LB",
+        "codelong": "LBN",
+        "flag": "https:\/\/www.countryflags.io\/LB\/shiny\/64.png"
+    },
+    {
+        "country": "Lesotho",
+        "code": "LS",
+        "codelong": "LSO",
+        "flag": "https:\/\/www.countryflags.io\/LS\/shiny\/64.png"
+    },
+    {
+        "country": "Liberia",
+        "code": "LR",
+        "codelong": "LBR",
+        "flag": "https:\/\/www.countryflags.io\/LR\/shiny\/64.png"
+    },
+    {
+        "country": "Libya",
+        "code": "LY",
+        "codelong": "LBY",
+        "flag": "https:\/\/www.countryflags.io\/LY\/shiny\/64.png"
+    },
+    {
+        "country": "Lithuania",
+        "code": "LT",
+        "codelong": "LTU",
+        "flag": "https:\/\/www.countryflags.io\/LT\/shiny\/64.png"
+    },
+    {
+        "country": "Luxembourg",
+        "code": "LU",
+        "codelong": "LUX",
+        "flag": "https:\/\/www.countryflags.io\/LU\/shiny\/64.png"
+    },
+    {
+        "country": "Madagascar",
+        "code": "MG",
+        "codelong": "MDG",
+        "flag": "https:\/\/www.countryflags.io\/MG\/shiny\/64.png"
+    },
+    {
+        "country": "Malawi",
+        "code": "MW",
+        "codelong": "MWI",
+        "flag": "https:\/\/www.countryflags.io\/MW\/shiny\/64.png"
+    },
+    {
+        "country": "Malaysia",
+        "code": "MY",
+        "codelong": "MYS",
+        "flag": "https:\/\/www.countryflags.io\/MY\/shiny\/64.png"
+    },
+    {
+        "country": "Maldives",
+        "code": "MV",
+        "codelong": "MDV",
+        "flag": "https:\/\/www.countryflags.io\/MV\/shiny\/64.png"
+    },
+    {
+        "country": "Mali",
+        "code": "ML",
+        "codelong": "MLI",
+        "flag": "https:\/\/www.countryflags.io\/ML\/shiny\/64.png"
+    },
+    {
+        "country": "Malta",
+        "code": "MT",
+        "codelong": "MLT",
+        "flag": "https:\/\/www.countryflags.io\/MT\/shiny\/64.png"
+    },
+    {
+        "country": "Marshall Islands",
+        "code": "MH",
+        "codelong": "MHL",
+        "flag": "https:\/\/www.countryflags.io\/MH\/shiny\/64.png"
+    },
+    {
+        "country": "Martinique",
+        "code": "MQ",
+        "codelong": "MTQ",
+        "flag": "https:\/\/www.countryflags.io\/MQ\/shiny\/64.png"
+    },
+    {
+        "country": "Mauritania",
+        "code": "MR",
+        "codelong": "MRT",
+        "flag": "https:\/\/www.countryflags.io\/MR\/shiny\/64.png"
+    },
+    {
+        "country": "Mauritius",
+        "code": "MU",
+        "codelong": "MUS",
+        "flag": "https:\/\/www.countryflags.io\/MU\/shiny\/64.png"
+    },
+    {
+        "country": "Mayotte",
+        "code": "YT",
+        "codelong": "MYT",
+        "flag": "https:\/\/www.countryflags.io\/YT\/shiny\/64.png"
+    },
+    {
+        "country": "Mexico",
+        "code": "MX",
+        "codelong": "MEX",
+        "flag": "https:\/\/www.countryflags.io\/MX\/shiny\/64.png"
+    },
+    {
+        "country": "Mongolia",
+        "code": "MN",
+        "codelong": "MNG",
+        "flag": "https:\/\/www.countryflags.io\/MN\/shiny\/64.png"
+    },
+    {
+        "country": "Montenegro",
+        "code": "ME",
+        "codelong": "MNE",
+        "flag": "https:\/\/www.countryflags.io\/ME\/shiny\/64.png"
+    },
+    {
+        "country": "Montserrat",
+        "code": "MS",
+        "codelong": "MSR",
+        "flag": "https:\/\/www.countryflags.io\/MS\/shiny\/64.png"
+    },
+    {
+        "country": "Morocco",
+        "code": "MA",
+        "codelong": "MAR",
+        "flag": "https:\/\/www.countryflags.io\/MA\/shiny\/64.png"
+    },
+    {
+        "country": "Mozambique",
+        "code": "MZ",
+        "codelong": "MOZ",
+        "flag": "https:\/\/www.countryflags.io\/MZ\/shiny\/64.png"
+    },
+    {
+        "country": "Myanmar",
+        "code": "MM",
+        "codelong": "MMR",
+        "flag": "https:\/\/www.countryflags.io\/MM\/shiny\/64.png"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "code": "MP",
+        "codelong": "MNP",
+        "flag": "https:\/\/www.countryflags.io\/MP\/shiny\/64.png"
+    },
+    {
+        "country": "Namibia",
+        "code": "NA",
+        "codelong": "NAM",
+        "flag": "https:\/\/www.countryflags.io\/NA\/shiny\/64.png"
+    },
+    {
+        "country": "Nauru",
+        "code": "NR",
+        "codelong": "NRU",
+        "flag": "https:\/\/www.countryflags.io\/NR\/shiny\/64.png"
+    },
+    {
+        "country": "Nepal",
+        "code": "NP",
+        "codelong": "NPL",
+        "flag": "https:\/\/www.countryflags.io\/NP\/shiny\/64.png"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "code": "AN",
+        "codelong": "ANT",
+        "flag": "https:\/\/www.countryflags.io\/AN\/shiny\/64.png"
+    },
+    {
+        "country": "Netherlands Antilles and Aruba",
+        "code": "AN",
+        "codelong": "ANT",
+        "flag": "https:\/\/www.countryflags.io\/AN\/shiny\/64.png"
+    },
+    {
+        "country": "Netherlands",
+        "code": "NL",
+        "codelong": "NED",
+        "flag": "https:\/\/www.countryflags.io\/NL\/shiny\/64.png"
+    },
+    {
+        "country": "Neutral Zone",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "New Caledonia",
+        "code": "NC",
+        "codelong": "NCL",
+        "flag": "https:\/\/www.countryflags.io\/NC\/shiny\/64.png"
+    },
+    {
+        "country": "New Zealand",
+        "code": "NZ",
+        "codelong": "NZL",
+        "flag": "https:\/\/www.countryflags.io\/NZ\/shiny\/64.png"
+    },
+    {
+        "country": "Nicaragua",
+        "code": "NI",
+        "codelong": "NIC",
+        "flag": "https:\/\/www.countryflags.io\/NI\/shiny\/64.png"
+    },
+    {
+        "country": "Niger",
+        "code": "NE",
+        "codelong": "NER",
+        "flag": "https:\/\/www.countryflags.io\/NE\/shiny\/64.png"
+    },
+    {
+        "country": "Nigeria",
+        "code": "NG",
+        "codelong": "NGA",
+        "flag": "https:\/\/www.countryflags.io\/NG\/shiny\/64.png"
+    },
+    {
+        "country": "Niue",
+        "code": "NU",
+        "codelong": "NIU",
+        "flag": "https:\/\/www.countryflags.io\/NU\/shiny\/64.png"
+    },
+    {
+        "country": "Norfolk Islands",
+        "code": "NF",
+        "codelong": "NFK",
+        "flag": "https:\/\/www.countryflags.io\/NF\/shiny\/64.png"
+    },
+    {
+        "country": "North America, the Caribbean and Central America not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Northern Africa, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Norway, Svalbard and Jan Mayen",
+        "code": "NO",
+        "codelong": "NOR",
+        "flag": "https:\/\/www.countryflags.io\/NO\/shiny\/64.png"
+    },
+    {
+        "country": "Oceania, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Oman",
+        "code": "OM",
+        "codelong": "OMN",
+        "flag": "https:\/\/www.countryflags.io\/OM\/shiny\/64.png"
+    },
+    {
+        "country": "Other Africa, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Other Asia, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Other Europe, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Pakistan",
+        "code": "PK",
+        "codelong": "PAK",
+        "flag": "https:\/\/www.countryflags.io\/PK\/shiny\/64.png"
+    },
+    {
+        "country": "Palau",
+        "code": "PW",
+        "codelong": "PLW",
+        "flag": "https:\/\/www.countryflags.io\/PW\/shiny\/64.png"
+    },
+    {
+        "country": "Panama",
+        "code": "PA",
+        "codelong": "PAN",
+        "flag": "https:\/\/www.countryflags.io\/PA\/shiny\/64.png"
+    },
+    {
+        "country": "Papua New Guinea",
+        "code": "PG",
+        "codelong": "PNG",
+        "flag": "https:\/\/www.countryflags.io\/PG\/shiny\/64.png"
+    },
+    {
+        "country": "Paraguay",
+        "code": "PY",
+        "codelong": "PRY",
+        "flag": "https:\/\/www.countryflags.io\/PY\/shiny\/64.png"
+    },
+    {
+        "country": "Peninsula Malaysia",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Peru",
+        "code": "PE",
+        "codelong": "PER",
+        "flag": "https:\/\/www.countryflags.io\/PE\/shiny\/64.png"
+    },
+    {
+        "country": "Philippines",
+        "code": "PH",
+        "codelong": "PHL",
+        "flag": "https:\/\/www.countryflags.io\/PH\/shiny\/64.png"
+    },
+    {
+        "country": "Pitcairn",
+        "code": "PN",
+        "codelong": "PCN",
+        "flag": "https:\/\/www.countryflags.io\/PN\/shiny\/64.png"
+    },
+    {
+        "country": "Poland",
+        "code": "PL",
+        "codelong": "POL",
+        "flag": "https:\/\/www.countryflags.io\/PL\/shiny\/64.png"
+    },
+    {
+        "country": "Portugal",
+        "code": "PT",
+        "codelong": "POR",
+        "flag": "https:\/\/www.countryflags.io\/PT\/shiny\/64.png"
+    },
+    {
+        "country": "Qatar",
+        "code": "QA",
+        "codelong": "QAT",
+        "flag": "https:\/\/www.countryflags.io\/QA\/shiny\/64.png"
+    },
+    {
+        "country": "Republic of Korea",
+        "code": "KR",
+        "codelong": "KOR",
+        "flag": "https:\/\/www.countryflags.io\/KR\/shiny\/64.png"
+    },
+    {
+        "country": "Republic of Moldova",
+        "code": "MD",
+        "codelong": "MDA",
+        "flag": "https:\/\/www.countryflags.io\/MD\/shiny\/64.png"
+    },
+    {
+        "country": "Rest of America, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "R\u00e9union",
+        "code": "RE",
+        "codelong": "REU",
+        "flag": "https:\/\/www.countryflags.io\/RE\/shiny\/64.png"
+    },
+    {
+        "country": "Romania",
+        "code": "RO",
+        "codelong": "ROU",
+        "flag": "https:\/\/www.countryflags.io\/RO\/shiny\/64.png"
+    },
+    {
+        "country": "Russia",
+        "code": "RU",
+        "codelong": "RUS",
+        "flag": "https:\/\/www.countryflags.io\/RU\/shiny\/64.png"
+    },
+    {
+        "country": "Rwanda",
+        "code": "RW",
+        "codelong": "RWA",
+        "flag": "https:\/\/www.countryflags.io\/RW\/shiny\/64.png"
+    },
+    {
+        "country": "Ryukyu Island",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Sabah",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Saint Barth\u00e9lemy",
+        "code": "BL",
+        "codelong": "BLM",
+        "flag": "https:\/\/www.countryflags.io\/BL\/shiny\/64.png"
+    },
+    {
+        "country": "Saint Helena",
+        "code": "SH",
+        "codelong": "SHN",
+        "flag": "https:\/\/www.countryflags.io\/SH\/shiny\/64.png"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "code": "KN",
+        "codelong": "KNA",
+        "flag": "https:\/\/www.countryflags.io\/KN\/shiny\/64.png"
+    },
+    {
+        "country": "Saint Kitts, Nevis and Anguilla",
+        "code": "KN",
+        "codelong": "KNA",
+        "flag": "https:\/\/www.countryflags.io\/KN\/shiny\/64.png"
+    },
+    {
+        "country": "Saint Lucia",
+        "code": "LC",
+        "codelong": "LCA",
+        "flag": "https:\/\/www.countryflags.io\/LC\/shiny\/64.png"
+    },
+    {
+        "country": "Saint Maarten (Dutch part)",
+        "code": "SX",
+        "codelong": "SXM",
+        "flag": "https:\/\/www.countryflags.io\/SX\/shiny\/64.png"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "codelong": "SPM",
+        "flag": "https:\/\/www.countryflags.io\/PM\/shiny\/64.png"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "codelong": "VCT",
+        "flag": "https:\/\/www.countryflags.io\/VC\/shiny\/64.png"
+    },
+    {
+        "country": "Samoa",
+        "code": "WS",
+        "codelong": "WSM",
+        "flag": "https:\/\/www.countryflags.io\/WS\/shiny\/64.png"
+    },
+    {
+        "country": "San Marino",
+        "code": "SM",
+        "codelong": "SMR",
+        "flag": "https:\/\/www.countryflags.io\/SM\/shiny\/64.png"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "code": "ST",
+        "codelong": "STP",
+        "flag": "https:\/\/www.countryflags.io\/ST\/shiny\/64.png"
+    },
+    {
+        "country": "Sarawak",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Saudi Arabia",
+        "code": "SA",
+        "codelong": "SAU",
+        "flag": "https:\/\/www.countryflags.io\/SA\/shiny\/64.png"
+    },
+    {
+        "country": "Senegal",
+        "code": "SN",
+        "codelong": "SEN",
+        "flag": "https:\/\/www.countryflags.io\/SN\/shiny\/64.png"
+    },
+    {
+        "country": "Serbia",
+        "code": "RS",
+        "codelong": "SRB",
+        "flag": "https:\/\/www.countryflags.io\/RS\/shiny\/64.png"
+    },
+    {
+        "country": "Serbia and Montenegro",
+        "code": "CS",
+        "codelong": "SCG",
+        "flag": "https:\/\/www.countryflags.io\/CS\/shiny\/64.png"
+    },
+    {
+        "country": "Seychelles",
+        "code": "SC",
+        "codelong": "SYC",
+        "flag": "https:\/\/www.countryflags.io\/SC\/shiny\/64.png"
+    },
+    {
+        "country": "Sierra Leone",
+        "code": "SL",
+        "codelong": "SLE",
+        "flag": "https:\/\/www.countryflags.io\/SL\/shiny\/64.png"
+    },
+    {
+        "country": "Sikkim",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Singapore",
+        "code": "SG",
+        "codelong": "SGP",
+        "flag": "https:\/\/www.countryflags.io\/SG\/shiny\/64.png"
+    },
+    {
+        "country": "Slovakia",
+        "code": "SK",
+        "codelong": "SVK",
+        "flag": "https:\/\/www.countryflags.io\/SK\/shiny\/64.png"
+    },
+    {
+        "country": "Slovenia",
+        "code": "SI",
+        "codelong": "SVN",
+        "flag": "https:\/\/www.countryflags.io\/SI\/shiny\/64.png"
+    },
+    {
+        "country": "Southern African Customs Union",
+        "code": "ZA",
+        "codelong": "ZAF",
+        "flag": "https:\/\/www.countryflags.io\/ZA\/shiny\/64.png"
+    },
+    {
+        "country": "Solomon Islands",
+        "code": "SB",
+        "codelong": "SLB",
+        "flag": "https:\/\/www.countryflags.io\/SB\/shiny\/64.png"
+    },
+    {
+        "country": "Somalia",
+        "code": "SO",
+        "codelong": "SOM",
+        "flag": "https:\/\/www.countryflags.io\/SO\/shiny\/64.png"
+    },
+    {
+        "country": "South Africa",
+        "code": "ZA",
+        "codelong": "ZAF",
+        "flag": "https:\/\/www.countryflags.io\/ZA\/shiny\/64.png"
+    },
+    {
+        "country": "South Georgia and the South Sandwich Islands",
+        "code": "GS",
+        "codelong": "SGS",
+        "flag": "https:\/\/www.countryflags.io\/GS\/shiny\/64.png"
+    },
+    {
+        "country": "South Sudan",
+        "code": "SS",
+        "codelong": "SSD",
+        "flag": "https:\/\/www.countryflags.io\/SS\/shiny\/64.png"
+    },
+    {
+        "country": "Spain",
+        "code": "ES",
+        "codelong": "ESP",
+        "flag": "https:\/\/www.countryflags.io\/ES\/shiny\/64.png"
+    },
+    {
+        "country": "Special Categories",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Sri Lanka",
+        "code": "LK",
+        "codelong": "LKA",
+        "flag": "https:\/\/www.countryflags.io\/LK\/shiny\/64.png"
+    },
+    {
+        "country": "State of Palestine",
+        "code": "PS",
+        "codelong": "PSE",
+        "flag": "https:\/\/www.countryflags.io\/PS\/shiny\/64.png"
+    },
+    {
+        "country": "Sudan",
+        "code": "SD",
+        "codelong": "SDN",
+        "flag": "https:\/\/www.countryflags.io\/SD\/shiny\/64.png"
+    },
+    {
+        "country": "Suriname",
+        "code": "SR",
+        "codelong": "SUR",
+        "flag": "https:\/\/www.countryflags.io\/SR\/shiny\/64.png"
+    },
+    {
+        "country": "Swaziland",
+        "code": "SZ",
+        "codelong": "SWZ",
+        "flag": "https:\/\/www.countryflags.io\/SZ\/shiny\/64.png"
+    },
+    {
+        "country": "Sweden",
+        "code": "SE",
+        "codelong": "SWE",
+        "flag": "https:\/\/www.countryflags.io\/SE\/shiny\/64.png"
+    },
+    {
+        "country": "Switzerland",
+        "code": "CH",
+        "codelong": "SUI",
+        "flag": "https:\/\/www.countryflags.io\/CH\/shiny\/64.png"
+    },
+    {
+        "country": "Syria",
+        "code": "SY",
+        "codelong": "SYR",
+        "flag": "https:\/\/www.countryflags.io\/SY\/shiny\/64.png"
+    },
+    {
+        "country": "Tajikistan",
+        "code": "TJ",
+        "codelong": "TJK",
+        "flag": "https:\/\/www.countryflags.io\/TJ\/shiny\/64.png"
+    },
+    {
+        "country": "North Macedonia",
+        "code": "MK",
+        "codelong": "MKD",
+        "flag": "https:\/\/www.countryflags.io\/MK\/shiny\/64.png"
+    },
+    {
+        "country": "Thailand",
+        "code": "TH",
+        "codelong": "THA",
+        "flag": "https:\/\/www.countryflags.io\/TH\/shiny\/64.png"
+    },
+    {
+        "country": "Timor-Leste",
+        "code": "TL",
+        "codelong": "TLS",
+        "flag": "https:\/\/www.countryflags.io\/TL\/shiny\/64.png"
+    },
+    {
+        "country": "Togo",
+        "code": "TG",
+        "codelong": "TGO",
+        "flag": "https:\/\/www.countryflags.io\/TG\/shiny\/64.png"
+    },
+    {
+        "country": "Tokelau",
+        "code": "TK",
+        "codelong": "TKL",
+        "flag": "https:\/\/www.countryflags.io\/TK\/shiny\/64.png"
+    },
+    {
+        "country": "Tonga",
+        "code": "TO",
+        "codelong": "TON",
+        "flag": "https:\/\/www.countryflags.io\/TO\/shiny\/64.png"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "code": "TT",
+        "codelong": "TTO",
+        "flag": "https:\/\/www.countryflags.io\/TT\/shiny\/64.png"
+    },
+    {
+        "country": "Tunisia",
+        "code": "TN",
+        "codelong": "TUN",
+        "flag": "https:\/\/www.countryflags.io\/TN\/shiny\/64.png"
+    },
+    {
+        "country": "Turkey",
+        "code": "TR",
+        "codelong": "TUR",
+        "flag": "https:\/\/www.countryflags.io\/TR\/shiny\/64.png"
+    },
+    {
+        "country": "Turkmenistan",
+        "code": "TM",
+        "codelong": "TKM",
+        "flag": "https:\/\/www.countryflags.io\/TM\/shiny\/64.png"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "code": "TC",
+        "codelong": "TCA",
+        "flag": "https:\/\/www.countryflags.io\/TC\/shiny\/64.png"
+    },
+    {
+        "country": "Tuvalu",
+        "code": "TV",
+        "codelong": "TUV",
+        "flag": "https:\/\/www.countryflags.io\/TV\/shiny\/64.png"
+    },
+    {
+        "country": "Uganda",
+        "code": "UG",
+        "codelong": "UGA",
+        "flag": "https:\/\/www.countryflags.io\/UG\/shiny\/64.png"
+    },
+    {
+        "country": "Ukraine",
+        "code": "UA",
+        "codelong": "UKR",
+        "flag": "https:\/\/www.countryflags.io\/UA\/shiny\/64.png"
+    },
+    {
+        "country": "United Arab Emirates",
+        "code": "AE",
+        "codelong": "ARE",
+        "flag": "https:\/\/www.countryflags.io\/AE\/shiny\/64.png"
+    },
+    {
+        "country": "United Kingdom",
+        "code": "GB",
+        "codelong": "GBR",
+        "flag": "https:\/\/www.countryflags.io\/GB\/shiny\/64.png"
+    },
+    {
+        "country": "United Republic of Tanzania",
+        "code": "TZ",
+        "codelong": "TZA",
+        "flag": "https:\/\/www.countryflags.io\/TZ\/shiny\/64.png"
+    },
+    {
+        "country": "United States Minor Outlying Islands",
+        "code": "UM",
+        "codelong": "UMI",
+        "flag": "https:\/\/www.countryflags.io\/UM\/shiny\/64.png"
+    },
+    {
+        "country": "Uruguay",
+        "code": "UY",
+        "codelong": "URY",
+        "flag": "https:\/\/www.countryflags.io\/UY\/shiny\/64.png"
+    },
+    {
+        "country": "US Miscellaneous Pacific Islands",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "US Virgin Islands",
+        "code": "VI",
+        "codelong": "VIR",
+        "flag": "https:\/\/www.countryflags.io\/VI\/shiny\/64.png"
+    },
+    {
+        "country": "USA, Puerto Rico and US Virgin Islands",
+        "code": "US",
+        "codelong": "USA",
+        "flag": "https:\/\/www.countryflags.io\/US\/shiny\/64.png"
+    },
+    {
+        "country": "USA and Puerto Rico",
+        "code": "US",
+        "codelong": "USA",
+        "flag": "https:\/\/www.countryflags.io\/US\/shiny\/64.png"
+    },
+    {
+        "country": "Uzbekistan",
+        "code": "UZ",
+        "codelong": "UZB",
+        "flag": "https:\/\/www.countryflags.io\/UZ\/shiny\/64.png"
+    },
+    {
+        "country": "Vanuatu",
+        "code": "VU",
+        "codelong": "VUT",
+        "flag": "https:\/\/www.countryflags.io\/VU\/shiny\/64.png"
+    },
+    {
+        "country": "Venezuela",
+        "code": "VE",
+        "codelong": "VEN",
+        "flag": "https:\/\/www.countryflags.io\/VE\/shiny\/64.png"
+    },
+    {
+        "country": "Viet Nam",
+        "code": "VN",
+        "codelong": "VNM",
+        "flag": "https:\/\/www.countryflags.io\/VN\/shiny\/64.png"
+    },
+    {
+        "country": "Wallis and Futuna Islands",
+        "code": "WF",
+        "codelong": "WLF",
+        "flag": "https:\/\/www.countryflags.io\/WF\/shiny\/64.png"
+    },
+    {
+        "country": "Western Asia, not elsewhere specified",
+        "code": "N\/A",
+        "codelong": "N\/A",
+        "flag": "https:\/\/www.countryflags.io\/N\/A\/shiny\/64.png"
+    },
+    {
+        "country": "Western Sahara",
+        "code": "EH",
+        "codelong": "ESH",
+        "flag": "https:\/\/www.countryflags.io\/EH\/shiny\/64.png"
+    },
+    {
+        "country": "World",
+        "code": "WL",
+        "codelong": "WLD",
+        "flag": "https:\/\/www.countryflags.io\/WL\/shiny\/64.png"
+    },
+    {
+        "country": "Yemen",
+        "code": "YE",
+        "codelong": "YEM",
+        "flag": "https:\/\/www.countryflags.io\/YE\/shiny\/64.png"
+    },
+    {
+        "country": "Zambia",
+        "code": "ZM",
+        "codelong": "ZMB",
+        "flag": "https:\/\/www.countryflags.io\/ZM\/shiny\/64.png"
+    },
+    {
+        "country": "Zimbabwe",
+        "code": "ZW",
+        "codelong": "ZWE",
+        "flag": "https:\/\/www.countryflags.io\/ZW\/shiny\/64.png"
+    },
+    {
+        "country": "England",
+        "code": "EN",
+        "codelong": "ENG",
+        "flag": ""
+    },
+    {
+        "country": "Scotland",
+        "code": "SCO",
+        "codelong": "SCO",
+        "flag": ""
+    },
+    {
+        "country": "Wales",
+        "code": "WAL",
+        "codelong": "WAL",
+        "flag": ""
+    }
+]

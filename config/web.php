@@ -3,6 +3,9 @@
 $params = require __DIR__ . '/params.php';
 $db = require __DIR__ . '/db.php';
 
+
+Yii::setAlias("@modules", $_SERVER["DOCUMENT_ROOT"] . DIRECTORY_SEPARATOR . "modules");
+
 $modulesNameList = ["tournament"];
 $modules = [];
 
