@@ -1,6 +1,6 @@
 class ClassTournament extends ClassUtil {
 	
-	url = (action) => `/web/tournament/index/${action}`;
+	url = (action) => `/tournament/index/${action}`;
 	
 	init() {
 		this.duration = document.querySelector(`input[name="duration"]:checked`).value;

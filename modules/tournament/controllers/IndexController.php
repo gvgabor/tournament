@@ -3,7 +3,6 @@
 namespace app\modules\tournament\controllers;
 
 use app\modules\tournament\models\DataModel;
-use JetBrains\PhpStorm\ArrayShape;
 use Yii;
 use yii\web\Controller;
 use yii\web\Response;
@@ -12,6 +11,11 @@ class IndexController extends Controller
 {
 
     public $enableCsrfValidation = false;
+
+    public function __construct($id, $module, $config = [])
+    {
+        parent::__construct($id, $module, $config);
+    }
 
     public function actionIndex()
     {
@@ -56,7 +60,6 @@ class IndexController extends Controller
         $result["result"] = $result["goal1"] . "-" . $result["goal2"];
         return $result;
     }
-
 
     public function actionGroupDataSource()
     {
@@ -103,7 +106,6 @@ class IndexController extends Controller
 
         return $result;
     }
-
 
     public function actionGroupMatchDataSource()
     {

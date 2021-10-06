@@ -18,7 +18,7 @@ AppAsset::register($this);
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Rendes</title>
+        <title>Referenciák</title>
         <?PHP $this->head() ?>
         <script type="text/javascript">
             kendo.culture("hu-HU")
@@ -43,7 +43,7 @@ AppAsset::register($this);
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="<?= Yii::$app->homeUrl ?>">
+                            <a class="nav-link" href="<?= Yii::$app->urlManager->baseUrl ?>">
                                 Home
                             </a>
                         </li>
