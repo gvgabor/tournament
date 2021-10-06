@@ -3,19 +3,13 @@
  * @var View $this
  */
 
+use app\modules\tournament\assets\TournamentAssets;
 use app\modules\tournament\models\DataModel;
 use yii\helpers\Html;
 use yii\web\View;
 
-//$js = [
-//    "/modules/rendes/assets/js/class.knockout.js",
-//    "/modules/rendes/assets/js/class.tournament.js",
-//];
-//
-//foreach ($js as $value) {
-//    $publish = Yii::$app->assetManager->publish(Yii::$app->basePath . $value);
-//    $this->registerJsFile($publish[1], ["position" => View::POS_END]);
-//}
+
+TournamentAssets::register($this);
 
 $model = new DataModel();
 

@@ -10,7 +10,16 @@ class TournamentAssets extends AssetBundle
 
     public $sourcePath = "@app/modules/tournament/assets";
 
-    public $js = [];
+
+    public $jsOptions = [
+        "position" => View::POS_END
+    ];
+
+
+    public $js = [
+        "class.tournament.js",
+        "class.knockout.js",
+    ];
 
     public function init()
     {

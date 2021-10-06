@@ -20,7 +20,7 @@ AppAsset::register($this);
         <meta charset="UTF-8">
         <title>Rendes</title>
         <?PHP $this->head() ?>
-        <script>
+        <script type="text/javascript">
             kendo.culture("hu-HU")
         </script>
     </head>
