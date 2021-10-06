@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/gvgabor/tournament#readme",
   "dependencies": {
+    "bootstrap": "^5.1.2",
     "postcss-cli": "^9.0.1",
     "sass": "^1.42.1"
   }

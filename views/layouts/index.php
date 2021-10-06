@@ -4,9 +4,13 @@
  * @var string $content
  */
 
+use app\assets\AppAsset;
+
 ?>
 
-
+<?PHP
+AppAsset::register($this);
+?>
 
 <?PHP $this->beginPage() ?>
 
@@ -32,28 +36,24 @@
                         data-bs-target="#navbarSupportedContent"
                         aria-controls="navbarSupportedContent"
                         aria-expanded="false"
-                        aria-label="Toggle navigation">
+                        aria-label="Toggle navigation"
+                >
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a
-                                    class="nav-link active"
-                                    aria-current="page"
-                                    href="<?= Yii::$app->urlManager->createUrl(['rendes/sunday']) ?>">
-                                Vasárnap
+                            <a class="nav-link" href="<?= Yii::$app->homeUrl ?>">
+                                Home
                             </a>
                         </li>
                         <li class="nav-item">
                             <a
                                     class="nav-link active"
                                     aria-current="page"
-                                    href="<?= Yii::$app->urlManager->createUrl(['rendes/tournament']) ?>">Europa bajnokság
+                                    href="<?= Yii::$app->urlManager->createUrl(['tournament/index']) ?>"
+                            >Europa bajnokság
                             </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="<?= Yii::$app->urlManager->createUrl(['rendes/euler']) ?>">Euler</a>
                         </li>
                     </ul>
                 </div>
